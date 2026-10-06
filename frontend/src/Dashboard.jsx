@@ -378,7 +378,7 @@ const Dashboard = () => {
                     <div className="mt-5 pt-5 border-t border-slate-100 flex justify-between items-center">
                         <div>
                             <p className="text-xs text-slate-400 font-bold mb-1 uppercase tracking-wider">NEW BOM-DEL</p>
-                            <p className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-slate-800'}`}>MUM ➔ NEW</p>
+                            <p className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-slate-800'}`}>MUM ➔ DEL</p>
                         </div>
                         <div className="bg-red-50 text-red-600 text-xs px-2.5 py-1.5 rounded font-semibold">
                             ▲ +19.9%
